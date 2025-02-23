@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ChristopherVidal07/Xochitl/static/css/main.306c93e5.css",
+    "main.js": "/ChristopherVidal07/Xochitl/static/js/main.17dbfd3e.js",
+    "static/media/AboutPhoto.jpeg": "/ChristopherVidal07/Xochitl/static/media/AboutPhoto.22ba2956a3cad4f7a684.jpeg",
+    "static/media/colombia.avif": "/ChristopherVidal07/Xochitl/static/media/colombia.4a283911d5c154921af6.avif",
+    "static/media/oxygenCon.webp": "/ChristopherVidal07/Xochitl/static/media/oxygenCon.c50204fcf14502737b55.webp",
+    "static/media/pwsImg.jpeg": "/ChristopherVidal07/Xochitl/static/media/pwsImg.b9c7e1c1f9761259d562.jpeg",
+    "index.html": "/ChristopherVidal07/Xochitl/index.html",
+    "main.306c93e5.css.map": "/ChristopherVidal07/Xochitl/static/css/main.306c93e5.css.map",
+    "main.17dbfd3e.js.map": "/ChristopherVidal07/Xochitl/static/js/main.17dbfd3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.306c93e5.css",
+    "static/js/main.17dbfd3e.js"
+  ]
+}
